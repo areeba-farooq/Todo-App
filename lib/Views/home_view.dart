@@ -85,7 +85,7 @@ class _HomeViewState extends State<HomeView> {
                       'assets/todo.png',
                     ),
                     fit: BoxFit.cover,
-                    opacity: 0.5,
+                    opacity: 0.3,
                   ),
                 ),
                 child: _buildMainBody(

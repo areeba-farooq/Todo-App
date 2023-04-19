@@ -66,7 +66,7 @@ dynamic deleteAllTask(BuildContext context) {
 }
 
 /// lottie asset address
-String lottieURL = 'assets/lottie.json';
+String lottieURL = 'assets/logo.json';
 
 class MyString {
   static const String mainTitle = "My Todos";
